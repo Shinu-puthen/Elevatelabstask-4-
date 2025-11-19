@@ -1,7 +1,7 @@
 # Task 4 Dash board design
 
 ## Task Overview
-This project demonstrates the creation of an interactive sales dashboard for analyzing business performance metrics, customer behavior, and product revenue trends over a multi-year period.
+This task demonstrates the creation of an interactive sales dashboard for analyzing business performance metrics, customer behavior, and product revenue trends over a multi-year period.
 
 ## Objective
 To build a comprehensive dashboard that enables data-driven decision-making by visualizing key sales metrics, identifying trends, and highlighting areas requiring strategic attention.
@@ -59,4 +59,4 @@ To build a comprehensive dashboard that enables data-driven decision-making by v
 - Professional documentation and presentation
 
 ## Aurthor
--**puyhenshinu@gmail.com
+-puthenshinu@gmail.com
